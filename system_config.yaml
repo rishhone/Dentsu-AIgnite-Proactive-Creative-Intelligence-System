@@ -1,0 +1,5 @@
+platform: META
+ctr_quantiles: [0.1, 0.5, 0.9]
+frame_samples: 8
+fatigue_threshold: -0.002
+max_llm_recommendations: 2
