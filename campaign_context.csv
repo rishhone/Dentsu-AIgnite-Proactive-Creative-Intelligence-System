@@ -1,0 +1,4 @@
+creative_id,placement,bid_type,audience_size,day_of_week
+CR001,Feed,LowestCost,150000,Mon
+CR002,Reels,CostCap,180000,Tue
+CR003,Feed,LowestCost,120000,Wed
