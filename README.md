@@ -1,0 +1,2 @@
+# Dentsu-AIgnite-Proactive-Creative-Intelligence-System
+A end-to-end AI system for proactive creative performance prediction and optimization in digital advertising. The system leverages multimodal creative understanding, pre-launch CTR distribution prediction,LLM-guided optimization, and human-in-the-loop feedback to move from reactive A/B testing to responsible, self-improving creative intelligence.
